@@ -9,7 +9,7 @@ const Location = () => {
   const isInView = useInView(ref, { once: true, margin: "-100px" })
 
   return (
-    <section ref={ref} className="section-padding bg-wedding-pink">
+    <section ref={ref} className="section-padding bg-white/70 backdrop-blur-sm">
       <div className="container-mobile">
         <motion.div
           initial={{ opacity: 0, y: 50 }}

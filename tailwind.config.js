@@ -17,7 +17,18 @@ module.exports = {
           'beige': '#F5F0E8',
           'gold': '#D4AF37',
           'sage': '#9CAF88',
+          'soft-pink': '#FDF2F8',
+          'warm-pink': '#FCE7F3',
+          'deep-rose': '#E879F9',
+          'lavender': '#E0E7FF',
+          'soft-purple': '#F3E8FF',
         }
+      },
+      backgroundImage: {
+        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
+        'gradient-conic': 'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+        'wedding-gradient': 'linear-gradient(135deg, #FDF2F8 0%, #FCE7F3 50%, #E0E7FF 100%)',
+        'hero-gradient': 'linear-gradient(135deg, rgba(253, 242, 248, 0.9) 0%, rgba(252, 231, 243, 0.8) 50%, rgba(224, 231, 255, 0.7) 100%)',
       },
       animation: {
         'fade-in': 'fadeIn 0.8s ease-in-out',

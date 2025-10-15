@@ -50,7 +50,7 @@ const Gallery = () => {
   }
 
   return (
-    <section ref={ref} className="section-padding bg-wedding-beige">
+    <section ref={ref} className="section-padding bg-white/70 backdrop-blur-sm">
       <div className="container-mobile">
         <motion.div
           initial={{ opacity: 0, y: 50 }}
