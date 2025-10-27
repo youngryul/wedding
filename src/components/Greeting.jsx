@@ -65,7 +65,7 @@ const Greeting = () => {
                   </div>
                   
                   <div className="flex items-center justify-center space-x-2">
-                    <span className="text-lg font-light text-gray-800">이인수·유미희의 장녀</span>
+                    <span className="text-lg font-light text-gray-800">이인수·류미희의 장녀</span>
                     <span className="text-lg font-medium text-gray-800">이영률</span>
                   </div>
                 </div>
