@@ -105,7 +105,7 @@ const Hero = () => {
           <div className="space-y-2 text-gray-700">
             <p className="text-lg font-light">2026년 02월 01일 일요일 오후 3시 20분</p>
             <p className="text-lg font-light">루이비스컨벤션 문정점</p>
-            <p className="text-lg font-light">아모리스홀</p>
+            <p className="text-lg font-light">그레이스홀</p>
           </div>
           
           {/* 하단 선 */}
